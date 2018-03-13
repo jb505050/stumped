@@ -1,4 +1,4 @@
 # stumped
-for sharing code.
+for sharing code with Udacity mentor in support of ML Engineer Nanodegree.
 
 thats it.
